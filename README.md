@@ -65,5 +65,5 @@ data-warehouse-project/
 ---
 
 **Tools**
-  1. SQL Server Express — for hosting your database
-  2. SQL Server Management Studio (SSMS) — to run queries
+  1. SQL Server Express — for hosting a database
+  2. SQL Server Management Studio (SSMS) — to run the queries
